@@ -15,7 +15,7 @@ You can view the site in there: [stay-ugly.com](https://stay-ugly.com)
 
 ### Mobile
 
-![Screenshot of the application running on a mobile device](https://github.com/Stay-Ugly/in-development-page/blob/master/screenshots/mobile.png?raw=true)
+![Screenshot of the application running on a mobile device](https://raw.githubusercontent.com/Stay-Ugly/in-development-page/master/screenshots/mobile.png)
 
 
 
