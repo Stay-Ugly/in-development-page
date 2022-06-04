@@ -11,11 +11,11 @@ You can view the site in there: [stay-ugly.com](https://stay-ugly.com)
 
 ### Desktop
 
-![Screenshot of the application running on a desktop device](https://raw.githubusercontent.com/luisbraganca/fake-terminal-website/master/screenshots/desktop.png)
+![Screenshot of the application running on a desktop device](https://github.com/Stay-Ugly/in-development-page/raw/master/screenshots/desktop.png)
 
 ### Mobile
 
-![Screenshot of the application running on a mobile device](https://raw.githubusercontent.com/luisbraganca/fake-terminal-website/master/screenshots/mobile.png)
+![Screenshot of the application running on a mobile device](https://github.com/Stay-Ugly/in-development-page/blob/master/screenshots/mobile.png?raw=true)
 
 
 
